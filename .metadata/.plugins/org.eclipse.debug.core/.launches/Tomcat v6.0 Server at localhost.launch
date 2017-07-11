@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jst.server.tomcat.core.launchConfigurationType">
+<mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="ALLUSERSPROFILE" value="C:\ProgramData"/>
+<mapEntry key="APPDATA" value="C:\Users\cnu\AppData\Roaming"/>
+<mapEntry key="COMPUTERNAME" value="SINU"/>
+<mapEntry key="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+<mapEntry key="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+<mapEntry key="FP_NO_HOST_CHECK" value="NO"/>
+<mapEntry key="HOMEDRIVE" value="C:"/>
+<mapEntry key="HOMEPATH" value="\Users\cnu"/>
+<mapEntry key="LOCALAPPDATA" value="C:\Users\cnu\AppData\Local"/>
+<mapEntry key="LOGONSERVER" value="\\SINU"/>
+<mapEntry key="NUMBER_OF_PROCESSORS" value="4"/>
+<mapEntry key="OS" value="Windows_NT"/>
+<mapEntry key="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+<mapEntry key="PROCESSOR_ARCHITECTURE" value="x86"/>
+<mapEntry key="PROCESSOR_IDENTIFIER" value="x86 Family 6 Model 42 Stepping 7, GenuineIntel"/>
+<mapEntry key="PROCESSOR_LEVEL" value="6"/>
+<mapEntry key="PROCESSOR_REVISION" value="2a07"/>
+<mapEntry key="PROMPT" value="$P$G"/>
+<mapEntry key="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\"/>
+<mapEntry key="PUBLIC" value="C:\Users\Public"/>
+<mapEntry key="Path" value="C:/Program Files/Java/jre1.8.0_45/bin/client;C:/Program Files/Java/jre1.8.0_45/bin;C:/Program Files/Java/jre1.8.0_45/lib/i386;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.6.0_21\bin\;C:\Program Files\PC Connectivity Solution\;C:\Program Files\Java\jdk1.6.0_21\bin;C:\Program Files\Java\jre7\bin\.;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Lenovo\Bluetooth Software\;C:\Program Files\Skype\Phone\;C:\Program Files\Java\jdk1.7.0_02\bin;F:\eclipse-jee-luna-SR1-win32\eclipse;"/>
+<mapEntry key="ProgramData" value="C:\ProgramData"/>
+<mapEntry key="ProgramFiles" value="C:\Program Files"/>
+<mapEntry key="SESSIONNAME" value="Console"/>
+<mapEntry key="SystemDrive" value="C:"/>
+<mapEntry key="SystemRoot" value="C:\Windows"/>
+<mapEntry key="TEMP" value=";C:\Program Files\Java\jdk1.8.0_45\bin\;C:\Program Files\Java\jre1.8.0_45\bin\;C:\Users\cnu\AppData\Local\Temp"/>
+<mapEntry key="TMP" value="C:\Users\cnu\AppData\Local\Temp"/>
+<mapEntry key="USERDOMAIN" value="sinu"/>
+<mapEntry key="USERDOMAIN_ROAMINGPROFILE" value="sinu"/>
+<mapEntry key="USERNAME" value="cnu"/>
+<mapEntry key="USERPROFILE" value="C:\Users\cnu"/>
+<mapEntry key="classpath" value=";C:\oraclexe\app\oracle\product\10.2.0\server\jdbc\lib\ojdbc14.jar;"/>
+<mapEntry key="windir" value="C:\Windows"/>
+</mapAttribute>
+<listAttribute key="org.eclipse.jdt.launching.CLASSPATH">
+<listEntry value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;runtimeClasspathEntry containerPath=&quot;org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_02&quot; path=&quot;2&quot; type=&quot;4&quot;/&gt;&#13;&#10;"/>
+<listEntry value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;runtimeClasspathEntry externalArchive=&quot;C:/Program Files/Apache Software Foundation/Tomcat 6.0/bin/bootstrap.jar&quot; path=&quot;3&quot; type=&quot;2&quot;/&gt;&#13;&#10;"/>
+<listEntry value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;runtimeClasspathEntry externalArchive=&quot;C:/Program Files/Java/jdk1.7.0_02/lib/tools.jar&quot; path=&quot;3&quot; type=&quot;2&quot;/&gt;&#13;&#10;"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.DEFAULT_CLASSPATH" value="false"/>
+<stringAttribute key="org.eclipse.jdt.launching.JRE_CONTAINER" value="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_02"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="start"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dcatalina.base=&quot;F:\Spring\.metadata\.plugins\org.eclipse.wst.server.core\tmp0&quot; -Dcatalina.home=&quot;C:\Program Files\Apache Software Foundation\Tomcat 6.0&quot; -Dwtp.deploy=&quot;F:\Spring\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps&quot; -Djava.endorsed.dirs=&quot;C:\Program Files\Apache Software Foundation\Tomcat 6.0\endorsed&quot;"/>
+<stringAttribute key="server-id" value="Tomcat v6.0 Server at localhost"/>
+</launchConfiguration>
